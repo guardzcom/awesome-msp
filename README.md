@@ -261,5 +261,3 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [MSPGH](https://mspgrowthhacks.com/) - A blog and resource to help MSPs grow their businesses with marketing tips and strategies.
 - [MSPmentor](https://www.channele2e.com/) - A blog and news site providing insights, resources, and strategies for managed service providers.
 - [MSP Insights](https://www.mspinsights.com/) - Exclusive, business-enabling content for managed service providers (MSPs) from successful MSPs and the associations that serve them.
-# docs
-# docs
