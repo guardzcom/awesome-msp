@@ -51,7 +51,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [ManageEngine ServiceDesk Plus](https://www.manageengine.com/products/service-desk/) - IT service management (ITSM) software with integrated IT asset management, CMDB, problem management, and change and release management, along with service desk capabilities.
 - [Tigerpaw](https://www.tigerpaw.com/) - End-to-end business automation and management across all aspects of your business.
 - [Zendesk](https://www.zendesk.com/) - Customer service and support ticketing system.
-- [ZestMSP])https://www.zestmsp.com/) - MSP PSA software with integrated help desk, time tracking, and more.
+- [ZestMSP](https://www.zestmsp.com/) - MSP PSA software with integrated help desk, time tracking, and more.
 
 ## BDR
 - [Acronis](https://www.acronis.com/) - Backup software & data protection solutions for consumers, businesses & MSPs.
