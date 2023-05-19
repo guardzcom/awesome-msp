@@ -139,6 +139,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [IT & MSP Business Owners Facebook Group](https://www.facebook.com/groups/ITMSPBOG) - Designed as a support community for those people working to improve their IT & Managed Service Provider businesses. Feature discussions to help your business and to help you grow.
 - [IT Nation](https://www.connectwise.com/theitnation) - a community of IT professionals dedicated to knowledge sharing, networking and professional development.
 - [MSP subreddit (r/msp)](https://www.reddit.com/r/msp/) - A Reddit community for MSPs to discuss and share information on relevant topics.
+- [MSPGeek](https://mspgeek.com) - MSPGeek is a free MSP Community which helps support all types of Managed Services (MSP/MSSP/CSP/TSP).
 - [The Tech Tribe](https://thetechtribe.com/) - A membership-based community for MSPs and IT professionals, offering educational content, resources, webinars, and an active forum for discussions and networking.
 
 ## Blogs & Podcasts
