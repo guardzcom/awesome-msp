@@ -5,8 +5,9 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 
 <!-- omit in toc -->
 ## Table of Contents
-- [RMM](#rmm)
-- [PSA \& Ticketing](#psa--ticketing)
+- [Software Bundles and Suites, RMM \& PSA](#software-bundles-and-suites-rmm--psa)
+- [Remote Support, RMM \& Device Monitoring](#remote-support-rmm--device-monitoring)
+- [PSA, Service Desk \& CX](#psa-service-desk--cx)
 - [BDR](#bdr)
 - [DNS Filtering and Web Security](#dns-filtering-and-web-security)
 - [Email Security](#email-security)
@@ -20,35 +21,51 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Blogs \& Podcasts](#blogs--podcasts)
 - [Conferences \& Events](#conferences--events)
 - [Cloud Management](#cloud-management)
-- [Remote Support](#remote-support)
 - [Mobile Device Management (MDM)](#mobile-device-management-mdm)
 - [Asset Management](#asset-management)
 - [Password Management](#password-management)
 - [VoIP and Telephony](#voip-and-telephony)
 - [Patch Management](#patch-management)
 - [Identity and Access Management (IAM)](#identity-and-access-management-iam)
-- [Software Bundles and Suites](#software-bundles-and-suites)
 - [Managed Print Services](#managed-print-services)
 - [Virtual Desktop Infrastructure (VDI)](#virtual-desktop-infrastructure-vdi)
 - [Business Resources](#business-resources)
 
-## RMM
-- [Atera](https://www.atera.com/) - All-in-one IT management solution with PSA and Remote Access.
-- [ConnectWise Automate](https://www.connectwise.com/software/automate) - RMM software that automates the technical work & improves ROI.
-- [Datto RMM](https://www.datto.com/rmm) - Managed service providers can remotely secure, monitor, and manage endpoints.
-- [Kaseya VSA](https://www.kaseya.com/products/vsa) - Unified endpoint management, from traditional to emerging – including mobile IOT, VMs and more.
-- [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
-- [NinjaRMM](https://www.ninjaone.com/rmm/) - Make your IT team more effective with RMM software that automates IT management, drives technician efficiency, and improves your bottom line.
-- [Pulseway](https://www.pulseway.com/) - RMM software, with automation, patching, remote control and network discovery.
-- [SolarWinds RMM](https://www.solarwindsmsp.com/products/rmm) - N-able N-sight is a complete MSP solution. RMM, remote access, ticketing, and billing.
+## Software Bundles and Suites, RMM & PSA
+- [Atera](https://www.atera.com/) - This all-in-one MSP platform combines remote monitoring and management with professional services automation, making it a comprehensive solution for MSPs.
+- [Barracuda MSP](https://www.barracudamsp.com/) - This suite offers MSPs a range of tools for remote monitoring, security, and network management, helping to protect clients' IT environments.
+- [Comodo One MSP](https://one.comodo.com/managed-service-providers/) - This platform provides MSPs with a range of tools, including remote monitoring and management, patch management, and service desk functionality, to help manage clients' IT environments.
+- [ConnectWise Suite](https://www.connectwise.com/) - Software tools, services, and a community of peers to help MSPs grow and manage their business.
+- [Datto Suite](https://www.datto.com/) - MSPs rely on Datto for mission-critical business continuity and disaster recovery, networking, business management, and file backup and sync solutions.
+- [Kaseya Suite](https://www.kaseya.com/) - A suite of products for MSPs, including RMM, PSA, security, and network monitoring solutions.
+- [ManageEngine MSP](https://www.manageengine.com/msp/) - This suite of IT management tools offers MSPs a range of capabilities, including network monitoring, IT service desk, asset management, and endpoint management.
+- [N-able](https://www.n-able.com/)(formerly SolarWinds MSP) - This platform offers a suite of tools, including remote monitoring and management, backup, and security solutions, tailored specifically for MSPs.
+- [NinjaRMM](https://www.ninjarmm.com/) - A powerful and easy-to-use RMM tool that offers MSPs a range of features including patch management, remote access, and network monitoring.
+- [Pulseway MSP](https://www.pulseway.com/msp) - This platform provides MSPs with a comprehensive set of tools for remote monitoring and management, IT automation, and professional services automation.
+- [SolarWinds MSP Suite](https://www.solarwindsmsp.com/) - Software, resources, and tools for MSPs and IT departments with Remote Monitoring & Management, Data Protection, and Security solutions.
+- [Syncro](https://syncromsp.com/) - PSA, RMM & remote access for one affordable price. Syncro is the integrated business platform for running a profitable MSP.
 
-## PSA & Ticketing
+## Remote Support, RMM & Device Monitoring
+- [AnyDesk](https://anydesk.com/) - A lightweight and fast remote support tool that allows you to access devices, transfer files, and collaborate with others. AnyDesk is known for its low latency and high-performance capabilities.
+- [Bomgar Remote Support](https://www.beyondtrust.com/remote-support) - A comprehensive remote support platform that offers features like remote access, file transfer, and desktop sharing. It is designed for IT and support teams.
+- [ConnectWise ScreenConnect](https://screenconnect.connectwise.com/) - Solve your clients' technical issues anytime, anywhere, instantly. Get ConnectWise ScreenConnect (formerly ConnectWise Control).
+- [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
+- [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools. It is designed for IT professionals and customer support teams.
+- [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management. It is designed for IT professionals and support teams.
+- [SolarWinds Take Control](https://www.solarwindsmsp.com/products/take-control) - A remote support solution that provides remote access, file transfer, and system diagnostics.
+- [Splashtop](https://www.splashtop.com/) - Fast and secure solutions for remote work, remote support, remote learning, and more at the best value.
+- [TeamViewer](https://www.teamviewer.com/) - A comprehensive remote support solution that allows you to access and control devices remotely, share files, and collaborate with others.
+
+## PSA, Service Desk & CX
 - [Autotask PSA](https://www.datto.com/products/autotask-psa) - Cloud solution offers ITL-aligned ticketing model, open APIs, ITSM tools, integrations with Datto RMM and more.
-- [ConnectWise Manage](https://www.connectwise.com/software/manage) - MSP PSA software with integrated help desk, sales & marketing, procurement, time tracking & billing.
-- [Freshdesk](https://freshdesk.com/) - cloud-based customer service software that gives you everything you need to deliver support.
+- [ConnectWise PSA](https://www.connectwise.com/software/manage) - MSP PSA software with integrated help desk, sales & marketing, procurement, time tracking & billing.
+- [DeskDirector](https://www.deskdirector.com/) - Automate workflows, improve client relationships, enhance process management, and hit your KPIs with DeskDirector’s all-in-one platform.
+- [Freshdesk](https://www.freshworks.com/freshdesk/) - cloud-based customer service software that gives you everything you need to deliver support.
 - [HaloPSA](https://halopsa.com/) - All-in-One PSA Software for Managed Service Providers.
+- [Invarosoft](https://www.invarosoft.com/) - Invarosoft delivers one MSP software platform to replace five products - CX, vCIO, CSAT, Warranty & Engineer Scheduling.
 - [Kaseya BMS](https://www.kaseya.com/products/bms/) - Business management solution.
 - [ManageEngine ServiceDesk Plus](https://www.manageengine.com/products/service-desk/) - IT service management (ITSM) software with integrated IT asset management, CMDB, problem management, and change and release management, along with service desk capabilities.
+- [Thread](https://www.getthread.com/) - Provide service where your customers are, inside of Slack, Teams, mobile or desktop. So they can start new threads from anywhere and any time.
 - [Tigerpaw](https://www.tigerpaw.com/) - End-to-end business automation and management across all aspects of your business.
 - [Zendesk](https://www.zendesk.com/) - Customer service and support ticketing system.
 - [ZestMSP](https://www.zestmsp.com/) - MSP PSA software with integrated help desk, time tracking, and more.
@@ -164,16 +181,6 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [CloudHealth](https://www.cloudhealthtech.com/) - Cloud management platform for MSPs, providing cost management, security, and governance.
 - [Nerdio](https://getnerdio.com/) - Azure Virtual Desktop Management and Windows 365 solutions for Managed Service Providers & Enterprise IT professionals.
 
-## Remote Support
-- [AnyDesk](https://anydesk.com/) - A lightweight and fast remote support tool that allows you to access devices, transfer files, and collaborate with others. AnyDesk is known for its low latency and high-performance capabilities.
-- [Bomgar Remote Support](https://www.beyondtrust.com/remote-support) - A comprehensive remote support platform that offers features like remote access, file transfer, and desktop sharing. It is designed for IT and support teams.
-- [ConnectWise ScreenConnect](https://screenconnect.connectwise.com/) - Solve your clients' technical issues anytime, anywhere, instantly. Get ConnectWise ScreenConnect (formerly ConnectWise Control).
-- [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools. It is designed for IT professionals and customer support teams.
-- [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management. It is designed for IT professionals and support teams.
-- [SolarWinds Take Control](https://www.solarwindsmsp.com/products/take-control) - A remote support solution that provides remote access, file transfer, and system diagnostics.
-- [Splashtop](https://www.splashtop.com/) - Fast and secure solutions for remote work, remote support, remote learning, and more at the best value.
-- [TeamViewer](https://www.teamviewer.com/) - A comprehensive remote support solution that allows you to access and control devices remotely, share files, and collaborate with others.
-
 ## Mobile Device Management (MDM)
 - [Jamf Pro](https://www.jamf.com/products/jamf-pro/) - Apple enterprise mobility management delivers mobile security and unified endpoint management for Apple devices.
 - [Kandji](https://kandji.io/) - Goes beyond Apple MDM solutions by connecting device security and device management.
@@ -236,19 +243,6 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Oracle Identity Management](https://www.oracle.com/middleware/technologies/identity-management.html) - Oracle offers a suite of IAM tools, including access management, identity governance, and directory services.
 - [Ping Identity](https://www.pingidentity.com/) - Ping Identity provides IAM solutions for single sign-on, multi-factor authentication, and API security.
 - [RSA SecurID Suite](https://www.rsa.com/en-us/products/securid) - RSA SecurID Suite provides a range of IAM solutions, including multi-factor authentication, risk-based authentication, and identity governance and lifecycle management.
-
-## Software Bundles and Suites
-- [Atera](https://www.atera.com/) - This all-in-one MSP platform combines remote monitoring and management with professional services automation, making it a comprehensive solution for MSPs.
-- [Barracuda MSP](https://www.barracudamsp.com/) - This suite offers MSPs a range of tools for remote monitoring, security, and network management, helping to protect clients' IT environments.
-- [Comodo One MSP](https://one.comodo.com/managed-service-providers/) - This platform provides MSPs with a range of tools, including remote monitoring and management, patch management, and service desk functionality, to help manage clients' IT environments.
-- [ConnectWise Suite](https://www.connectwise.com/) - Software tools, services, and a community of peers to help MSPs grow and manage their business.
-- [Datto Suite](https://www.datto.com/) - MSPs rely on Datto for mission-critical business continuity and disaster recovery, networking, business management, and file backup and sync solutions.
-- [Kaseya Suite](https://www.kaseya.com/) - A suite of products for MSPs, including RMM, PSA, security, and network monitoring solutions.
-- [ManageEngine MSP](https://www.manageengine.com/msp/) - This suite of IT management tools offers MSPs a range of capabilities, including network monitoring, IT service desk, asset management, and endpoint management.
-- [N-able](https://www.n-able.com/)(formerly SolarWinds MSP) - This platform offers a suite of tools, including remote monitoring and management, backup, and security solutions, tailored specifically for MSPs.
-- [NinjaRMM](https://www.ninjarmm.com/) - A powerful and easy-to-use RMM tool that offers MSPs a range of features including patch management, remote access, and network monitoring.
-- [Pulseway MSP](https://www.pulseway.com/msp) - This platform provides MSPs with a comprehensive set of tools for remote monitoring and management, IT automation, and professional services automation.
-- [SolarWinds MSP Suite](https://www.solarwindsmsp.com/) - Software, resources, and tools for MSPs and IT departments with Remote Monitoring & Management, Data Protection, and Security solutions.
 
 ## Managed Print Services
 - [ECiFMAudit](https://www.ecisolutions.com/products/printanista-hub/) - Data-driven solution designed to capture, store, and analyze critical printing data from most major manufacturers.
