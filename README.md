@@ -82,6 +82,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Barracuda Email Protection](https://www.barracuda.com/products/email-protection) - Security, Application Delivery and Data Protection Solutions.
 - [Cisco Email Security](https://www.cisco.com/c/en/us/products/security/email-security/index.html) - A email security solution that offers advanced threat defense, data loss prevention, and email encryption.
 - [Fortinet FortiMail](https://www.fortinet.com/products/email-security/fortimail) - An email security gateway that provides advanced protection against spam, phishing, malware, and other threats.
+- [Mesh](https://www.meshsecurity.io/) - The only Email Security Platform purpose-built for MSPs with Best-In-Class Machine Learning Powered Detection, and a revolutionary centralized management console (MSP Hub).
 - [Mimecast](https://www.mimecast.com/) - Mimecast cloud cybersecurity services for email, data, and web protects critical communications, people and data.
 - [N-able Mail Assure](https://www.n-able.com/products/mail-assure) - Offers MSPs AI-driven email security with close to 100% filtering accuracy.
 - [Proofpoint](https://www.proofpoint.com/us/solutions/combat-email-and-cloud-threats) - Offers compliance and cybersecurity solutions for email, web, cloud, and more.
@@ -114,6 +115,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Huntress](https://www.huntress.com/) - Huntress delivers a powerful suite of managed endpoint detection and response (EDR) capabilities, backed by a team of 24/7 threat hunters, to protect your business from today’s determined cybercriminals.
 - [SentinelOne Singularity](https://www.sentinelone.com/platform/singularity-complete/) - The SentinelOne Singularity platform intelligently automates EDR and XDR by providing Storyline context and a full range of automated and manual remediation actions.
 - [Sophos](https://www.sophos.com/) - Managed Detection and Response (MDR) and incident response services and a broad portfolio of endpoint, network, email, and cloud security technologies.
+- [Trend Micro Worry-Free](https://www.trendmicro.com/en_us/small-business/worry-free-services-suites.html) - Trend Micro Worry-Free Services is an all-in-one, lightweight agent with an intuitive, cloud-based console.
 
 ## IT Documentation
 - [Hudu](https://www.usehudu.com/) - IT documentation and password management platform.
@@ -123,7 +125,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 ## Network Monitoring
 - [Auvik](https://www.auvik.com/) - Cloud-based network management software.
 - [PRTG Network Monitor](https://www.paessler.com/prtg) - On premises and cloud-based network monitoring software.
-- [Zabbix](https://www.zabbix.com/) -  open source monitoring solution for network monitoring and application monitoring of millions of metrics.
+- [Zabbix](https://www.zabbix.com/) - open source monitoring solution for network monitoring and application monitoring of millions of metrics.
 
 ## Communication and Collaboration
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Collaboration and communication platform for teams.
@@ -160,16 +162,15 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 ## Cloud Management
 - [CloudCheckr](https://cloudcheckr.com/) - Cloud management platform for MSPs, offering cost optimization, security, and compliance management.
 - [CloudHealth](https://www.cloudhealthtech.com/) - Cloud management platform for MSPs, providing cost management, security, and governance.
-- [Nerdio](https://getnerdio.com/) -  Azure Virtual Desktop Management and Windows 365 solutions for Managed Service Providers & Enterprise IT professionals.
+- [Nerdio](https://getnerdio.com/) - Azure Virtual Desktop Management and Windows 365 solutions for Managed Service Providers & Enterprise IT professionals.
 
 ## Remote Support
 - [AnyDesk](https://anydesk.com/) - A lightweight and fast remote support tool that allows you to access devices, transfer files, and collaborate with others. AnyDesk is known for its low latency and high-performance capabilities.
 - [Bomgar Remote Support](https://www.beyondtrust.com/remote-support) - A comprehensive remote support platform that offers features like remote access, file transfer, and desktop sharing. It is designed for IT and support teams.
-- [ConnectWise Control](https://www.connectwise.com/software/control) - Remote support and remote access solution.
+- [ConnectWise ScreenConnect](https://screenconnect.connectwise.com/) - Solve your clients' technical issues anytime, anywhere, instantly. Get ConnectWise ScreenConnect (formerly ConnectWise Control).
 - [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools. It is designed for IT professionals and customer support teams.
 - [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management. It is designed for IT professionals and support teams.
-- [ScreenConnect](https://www.connectwise.com/software/control/screenconnect) - A remote support tool that provides secure access to devices, file transfer, and remote diagnostics. It is designed for IT professionals and MSPs.
-- [SolarWinds Take Control](https://www.solarwindsmsp.com/products/take-control) - A remote support solution that provides remote access, file transfer, and system diagnostics. It is designed for MSPs and IT professionals.
+- [SolarWinds Take Control](https://www.solarwindsmsp.com/products/take-control) - A remote support solution that provides remote access, file transfer, and system diagnostics.
 - [Splashtop](https://www.splashtop.com/) - Fast and secure solutions for remote work, remote support, remote learning, and more at the best value.
 - [TeamViewer](https://www.teamviewer.com/) - A comprehensive remote support solution that allows you to access and control devices remotely, share files, and collaborate with others.
 
@@ -186,13 +187,13 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Snipe-IT](https://snipeitapp.com/) - Open-source IT asset management solution.
 
 ## Password Management
-- [1Password](https://1password.com/) -  1Password is a password management solution offering secure password storage, password sharing, and multi-factor authentication.
+- [1Password](https://1password.com/) - 1Password is a password management solution offering secure password storage, password sharing, and multi-factor authentication.
 - [Bitwarden](https://bitwarden.com/) - Bitwarden is an open-source password management solution that offers password storage, password sharing, and multi-factor authentication.
 - [Enpass](https://www.enpass.io/) - Enpass is a password management solution that offers offline password storage, password sharing, and data encryption.
 - [Keeper](https://www.keepersecurity.com/) - Keeper is a password management tool that provides features such as password storage, password sharing, and secure file storage.
 - [LastPass](https://www.lastpass.com/) - LastPass is a popular password management tool that offers features such as password storage, password sharing, and multi-factor authentication.
+- [N-able Passportal](https://www.n-able.com/products/passportal) - Passportal empowers safe, privileged access management across your devices, networks, and applications while helping you create, manage, and automate strong credentials.
 - [NordPass](https://nordpass.com/) - NordPass is a password management tool that provides features such as password storage, password sharing, and secure notes storage.
-- [Passportal](https://www.passportalmsp.com/) - Passportal is a password management tool designed specifically for MSPs, offering features such as password storage, password sharing, and secure document storage.
 - [RoboForm](https://www.roboform.com/) - RoboForm is a password management tool that provides features such as password storage, form-filling, and secure sharing.
 - [Sticky Password](https://www.stickypassword.com/) - Sticky Password offers password management services, including password storage, password sharing, and multi-factor authentication.
 - [True Key](https://www.truekey.com/) - True Key by McAfee is a password management solution that offers secure password storage, multi-factor authentication, and integration with various devices.
@@ -250,12 +251,13 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [SolarWinds MSP Suite](https://www.solarwindsmsp.com/) - Software, resources, and tools for MSPs and IT departments with Remote Monitoring & Management, Data Protection, and Security solutions.
 
 ## Managed Print Services
-- [ECiFMAudit](https://www.ecisolutions.com/products/printanista-hub/) -  Data-driven solution designed to capture, store, and analyze critical printing data from most major manufacturers.
+- [ECiFMAudit](https://www.ecisolutions.com/products/printanista-hub/) - Data-driven solution designed to capture, store, and analyze critical printing data from most major manufacturers.
 - [PaperCut](https://www.papercut.com/) - Print management software with managed print services features.
 - [PrinterLogic](https://www.printerlogic.com/) - PrinterLogic's Enterprise Print Management software allows IT professionals to simplify printer driver management and empower end users.
+- [Printix](https://printix.net/) - Printix cloud print management software helps companies build secure print infrastructures in the cloud, removing the need for print servers.
 
 ## Virtual Desktop Infrastructure (VDI)
-- [Citrix Virtual Apps and Desktops](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/) -  Modernizes IT with a secure, easy-to-manage cloud solution to quickly deliver apps or desktops from any cloud or datacenter worldwide.
+- [Citrix Virtual Apps and Desktops](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/) - Modernizes IT with a secure, easy-to-manage cloud solution to quickly deliver apps or desktops from any cloud or datacenter worldwide.
 - [Microsoft Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) - Combines the scale, security, and cost benefits of Azure and Microsoft 365 for a secure remote desktop from virtually anywhere.
 - [VMware Horizon](https://www.vmware.com/products/horizon.html) - VDI and app virtualization platform.
 
