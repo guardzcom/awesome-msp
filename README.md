@@ -38,8 +38,8 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Datto RMM](https://www.datto.com/rmm) - Managed service providers can remotely secure, monitor, and manage endpoints.
 - [Kaseya VSA](https://www.kaseya.com/products/vsa) - Unified endpoint management, from traditional to emerging – including mobile IOT, VMs and more.
 - [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
-- [NinjaRMM](https://www.ninjaone.com/rmm/) - An appliance-based IT-OT convergence solution meant for the manufacturing segment that lets legacy OT systems (SCADA systems and PC controllers) securely connect over the internet over endpoints anywhere at any time.
-- [Pulseway](https://www.pulseway.com/) - RMMsoftware, with automation, patching, remote control and network discovery.
+- [NinjaRMM](https://www.ninjaone.com/rmm/) - Make your IT team more effective with RMM software that automates IT management, drives technician efficiency, and improves your bottom line.
+- [Pulseway](https://www.pulseway.com/) - RMM software, with automation, patching, remote control and network discovery.
 - [SolarWinds RMM](https://www.solarwindsmsp.com/products/rmm) - N-able N-sight is a complete MSP solution. RMM, remote access, ticketing, and billing.
 
 ## PSA & Ticketing
