@@ -215,6 +215,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Jive Communications](https://jive.com/) - Jive Communications offers a range of VoIP and telephony solutions, including cloud-based phone systems, video conferencing, and contact center services.
 - [Mitel](https://www.mitel.com/) - Mitel provides a range of VoIP and telephony solutions, including cloud-based phone systems, video conferencing, and team collaboration tools.
 - [Nextiva](https://www.nextiva.com/) - Software company that enables all your business communications through one collaboration tool.
+- [OIT](https://oit.co/) - OIT provides cloud-hosted VoIP and associated tools for billing and tax compliance through resale and white-label programs.
 - [Ooma](https://www.ooma.com/) - Ooma offers VoIP and telephony services for businesses, including cloud-based phone systems, video confer.
 - [RingCentral](https://www.ringcentral.com/) - Provides businesses with different cloud-based business communications solutions that include message, video, phone, and contact center services that allow teams and customers to work together - from anywhere.
 - [Vonage](https://www.vonage.com/) - Vonage offers a variety of VoIP and telephony solutions for businesses, including cloud-based phone systems, video conferencing, and contact center services.
