@@ -39,20 +39,18 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Datto Suite](https://www.datto.com/) - MSPs rely on Datto for mission-critical business continuity and disaster recovery, networking, business management, and file backup and sync solutions.
 - [Kaseya Suite](https://www.kaseya.com/) - A suite of products for MSPs, including RMM, PSA, security, and network monitoring solutions.
 - [ManageEngine MSP](https://www.manageengine.com/msp/) - This suite of IT management tools offers MSPs a range of capabilities, including network monitoring, IT service desk, asset management, and endpoint management.
-- [N-able](https://www.n-able.com/)(formerly SolarWinds MSP) - This platform offers a suite of tools, including remote monitoring and management, backup, and security solutions, tailored specifically for MSPs.
+- [N-able](https://www.n-able.com/) (formerly SolarWinds MSP) - This platform offers a suite of tools, including remote monitoring and management, backup, and security solutions, tailored specifically for MSPs.
 - [NinjaRMM](https://www.ninjarmm.com/) - A powerful and easy-to-use RMM tool that offers MSPs a range of features including patch management, remote access, and network monitoring.
 - [Pulseway MSP](https://www.pulseway.com/msp) - This platform provides MSPs with a comprehensive set of tools for remote monitoring and management, IT automation, and professional services automation.
-- [SolarWinds MSP Suite](https://www.solarwindsmsp.com/) - Software, resources, and tools for MSPs and IT departments with Remote Monitoring & Management, Data Protection, and Security solutions.
 - [Syncro](https://syncromsp.com/) - PSA, RMM & remote access for one affordable price. Syncro is the integrated business platform for running a profitable MSP.
 
 ## Remote Support, RMM & Device Monitoring
 - [AnyDesk](https://anydesk.com/) - A lightweight and fast remote support tool that allows you to access devices, transfer files, and collaborate with others. AnyDesk is known for its low latency and high-performance capabilities.
-- [Bomgar Remote Support](https://www.beyondtrust.com/remote-support) - A comprehensive remote support platform that offers features like remote access, file transfer, and desktop sharing. It is designed for IT and support teams.
+- [BeyondTrust Remote Support](https://www.beyondtrust.com/products/remote-support) - A comprehensive remote support platform that offers features like remote access, file transfer, and desktop sharing.
 - [ConnectWise ScreenConnect](https://screenconnect.connectwise.com/) - Solve your clients' technical issues anytime, anywhere, instantly. Get ConnectWise ScreenConnect (formerly ConnectWise Control).
 - [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
-- [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools. It is designed for IT professionals and customer support teams.
-- [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management. It is designed for IT professionals and support teams.
-- [SolarWinds Take Control](https://www.solarwindsmsp.com/products/take-control) - A remote support solution that provides remote access, file transfer, and system diagnostics.
+- [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools.
+- [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management.
 - [Splashtop](https://www.splashtop.com/) - Fast and secure solutions for remote work, remote support, remote learning, and more at the best value.
 - [TeamViewer](https://www.teamviewer.com/) - A comprehensive remote support solution that allows you to access and control devices remotely, share files, and collaborate with others.
 
@@ -177,8 +175,8 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [MSPGeekCon](https://mspgeekcon.com/) - A Conference For MSPs by MSPs.
 
 ## Cloud Management
-- [CloudCheckr](https://cloudcheckr.com/) - Cloud management platform for MSPs, offering cost optimization, security, and compliance management.
-- [CloudHealth](https://www.cloudhealthtech.com/) - Cloud management platform for MSPs, providing cost management, security, and governance.
+- [CloudCheckr](https://cloudcheckr.com/) - Cloud management platform, offering cost optimization, security, and compliance management.
+- [CloudHealth](https://www.cloudhealthtech.com/) - Cloud management platform, providing cost management, security, and governance.
 - [Nerdio](https://getnerdio.com/) - Azure Virtual Desktop Management and Windows 365 solutions for Managed Service Providers & Enterprise IT professionals.
 
 ## Mobile Device Management (MDM)
