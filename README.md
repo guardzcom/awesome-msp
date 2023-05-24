@@ -168,6 +168,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [MSPAlliance Podcast](https://mspalliance.com/category/podcasts/) - MSPAlliance podcasts on the global cloud & managed services profession.
 - [TubbTalk](https://www.tubblog.co.uk/podcast/) - Whether you are an IT Consultant, an IT Managed Service Provider (MSP) or an IT Solution Provider business owner, TubbTalk – the Podcast for IT Consultants – will help you with valuable advice on how to be the best at what you do.
 - [MSPMarketing Podcast](https://www.paulgreensmspmarketing.com/podcast-intro/) - Listen every Tuesday and discover how to get new clients and make more profit. The show is about 30 minutes long and you can either watch on YouTube or listen on your favourite podcast platform.
+- [The Business of Tech](https://businessof.tech/) - Daily podcast focused news impacting the delivery of IT services, with context asking "Why Do We Care?".   Bonus episodes include deeper dives into topics of interest.   Available audio and YouTube video.   
 
 ## Conferences & Events
 - [ChannelCon](https://www.comptia.org/channelcon) - Annual conference for IT professionals and MSPs hosted by CompTIA.
