@@ -121,6 +121,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 
 ## Security Suites, Platforms and MDRs
 - [Arctic Wolf Managed Risk](https://arcticwolf.com/solutions/managed-risk/) - Arctic Wolf Managed Risk enables you to discover, assess, and harden your environment against digital risks by contextualizing your attack surface coverage across your networks, endpoints, and cloud environments.
+- [Bastion](https://www.bastion.tech/) - Cybersecurity all-in-one platform for SMBs. Infrastructure scans, phishing campaigns, trainings, typosquatting and more to secure businesses. It offers multitenancy for MSPs to view, manage and improve their customers' security in one place.
 - [Bitdefender](https://www.bitdefender.com/) - Cybersecurity software delivering threat prevention, detection, and response solutions worldwide.
 - [Blackpoint Cyber](https://blackpointcyber.com/) - Blackpoint Cyber's purpose-built MDR technology combines network visualization, tradecraft detection, and endpoint security to rapidly detect and neutralize lateral movement in its earliest stages.
 - [Check Point Harmony](https://www.checkpoint.com/harmony/) - Check Point Harmony is the industry's first unified security solution for users devices and access. It protects devices and internet connections from the most sophisticated attacks while ensuring zero-trust access to corporate applications.
