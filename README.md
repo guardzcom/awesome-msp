@@ -63,6 +63,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Invarosoft](https://www.invarosoft.com/) - Invarosoft delivers one MSP software platform to replace five products - CX, vCIO, CSAT, Warranty & Engineer Scheduling.
 - [Kaseya BMS](https://www.kaseya.com/products/bms/) - Business management solution.
 - [ManageEngine ServiceDesk Plus](https://www.manageengine.com/products/service-desk/) - IT service management (ITSM) software with integrated IT asset management, CMDB, problem management, and change and release management, along with service desk capabilities.
+- [Sync 365](https://sync365license.com/) - Microsoft 365 and Azure consumption billing automation and contact sync. Automates the billing for your Microsoft (Licenses/Azure), Managed User, and many more into Connectwise and Autotask
 - [Thread](https://www.getthread.com/) - Provide service where your customers are, inside of Slack, Teams, mobile or desktop. So they can start new threads from anywhere and any time.
 - [Tigerpaw](https://www.tigerpaw.com/) - End-to-end business automation and management across all aspects of your business.
 - [Zendesk](https://www.zendesk.com/) - Customer service and support ticketing system.
