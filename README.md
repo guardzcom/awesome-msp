@@ -230,6 +230,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [PDQ Deploy](https://www.pdq.com/pdq-deploy/) - PDQ Deploy is a patch management tool that enables administrators to deploy patches for Windows systems and third-party applications.
 - [Scappman](https://www.scappman.com/) - Automate your application installations and updates in Microsoft Intune.
 - [SolarWinds Patch Manager](https://www.solarwinds.com/patch-manager) - SolarWinds Patch Manager automates the patch management process for Windows and third-party applications, providing vulnerability scanning, patch deployment, and reporting.
+- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Syxsense Manage](https://www.syxsense.com/syxsense-manage) - Syxsense Manage is a cloud-based patch management solution that supports Windows, macOS, and Linux systems, as well as third-party applications.
 
 ## Identity and Access Management (IAM)
