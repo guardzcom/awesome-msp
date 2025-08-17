@@ -104,6 +104,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Proofpoint](https://www.proofpoint.com/us/solutions/combat-email-and-cloud-threats) - Offers compliance and cybersecurity solutions for email, web, cloud, and more.
 - [Sophos Email Security](https://www.sophos.com/en-us/products/secure-email-gateway.aspx) - A cloud-based email security solution that offers protection against spam, phishing, malware, and ransomware.
 - [SpamTitan](https://www.spamtitan.com/) - Email security and spam filtering with SpamTitan from TitanHQ uses double AV and AI driven malicious URL detection to block malicious threats.
+- [Suped DMARC Monitoring](https://www.suped.com/) - DMARC report monitoring, dashboards and notifications, with Adaptive Blocklist Monitoring. Built to provide best in class UX and price for MSPs.
 - [Trellix Email Security](https://www.trellix.com/en-us/products/email-security.html) - A comprehensive email security solution that protects against advanced threats, including spear-phishing, ransomware, and impersonation attacks.
 - [Trend Micro Email Security](https://www.trendmicro.com/en_us/business/products/user-protection.html) - A comprehensive email security platform that provides protection against advanced threats, phishing, and business email compromise.
 - [Zix Email Threat Protection](https://www.zixcorp.com/products/email-threat-protection) - A cloud-based email security solution that offers advanced threat protection, phishing defense, and content filtering.
