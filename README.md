@@ -139,6 +139,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Passportal](https://www.solarwindsmsp.com/products/passportal) - Cloud-based, privileged access system combining both password and documentation management.
 
 ## Network Monitoring
+- [ACS Monitor](https://acsmon.com/) - Self-hosted SNMP and infrastructure monitoring with multi-protocol service checks, dashboards, and a real-time alert pipeline.
 - [Auvik](https://www.auvik.com/) - Cloud-based network management software.
 - [PRTG Network Monitor](https://www.paessler.com/prtg) - On premises and cloud-based network monitoring software.
 - [Zabbix](https://www.zabbix.com/) - open source monitoring solution for network monitoring and application monitoring of millions of metrics.
