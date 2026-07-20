@@ -129,6 +129,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Cynet](https://www.cynet.com/) - End-to-end, natively automated XDR platform built to enable lean IT security teams to achieve comprehensive, effective protection.
 - [Guardz](https://guardz.com/) - Managed cybersecurity platform built for MSPs & IT pros. Discover the cyber platform that secures & insures your business.
 - [Huntress](https://www.huntress.com/) - Huntress delivers a powerful suite of managed endpoint detection and response (EDR) capabilities, backed by a team of 24/7 threat hunters, to protect your business from today’s determined cybercriminals.
+- [MDRProviders.io](https://mdrproviders.io/) - Comparison directory of MDR providers covering pricing, SLAs, breach warranties, and response models.
 - [SentinelOne Singularity](https://www.sentinelone.com/platform/singularity-complete/) - The SentinelOne Singularity platform intelligently automates EDR and XDR by providing Storyline context and a full range of automated and manual remediation actions.
 - [Sophos](https://www.sophos.com/) - Managed Detection and Response (MDR) and incident response services and a broad portfolio of endpoint, network, email, and cloud security technologies.
 - [Trend Micro Worry-Free](https://www.trendmicro.com/en_us/small-business/worry-free-services-suites.html) - Trend Micro Worry-Free Services is an all-in-one, lightweight agent with an intuitive, cloud-based console.
