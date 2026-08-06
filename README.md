@@ -219,6 +219,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Ooma](https://www.ooma.com/) - Ooma offers VoIP and telephony services for businesses, including cloud-based phone systems, video confer.
 - [RingCentral](https://www.ringcentral.com/) - Provides businesses with different cloud-based business communications solutions that include message, video, phone, and contact center services that allow teams and customers to work together - from anywhere.
 - [Vonage](https://www.vonage.com/) - Vonage offers a variety of VoIP and telephony solutions for businesses, including cloud-based phone systems, video conferencing, and contact center services.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice agent and virtual receptionist that answers missed calls, books appointments, and captures leads after hours, useful for MSPs fielding after-hours client support and help desk overflow calls.
 
 ## Patch Management
 - [Automox](https://www.automox.com/) - Automox is a cloud-native patch management solution that supports Windows, macOS, and Linux systems, as well as third-party applications.
