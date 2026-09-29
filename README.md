@@ -48,6 +48,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [AnyDesk](https://anydesk.com/) - A lightweight and fast remote support tool that allows you to access devices, transfer files, and collaborate with others. AnyDesk is known for its low latency and high-performance capabilities.
 - [BeyondTrust Remote Support](https://www.beyondtrust.com/products/remote-support) - A comprehensive remote support platform that offers features like remote access, file transfer, and desktop sharing.
 - [ConnectWise ScreenConnect](https://screenconnect.connectwise.com/) - Solve your clients' technical issues anytime, anywhere, instantly. Get ConnectWise ScreenConnect (formerly ConnectWise Control).
+- [ET Ducky](https://etducky.com/) - Cross-platform RMM for Windows and Linux built on kernel event telemetry (ETW and eBPF), with browser-based remote desktop, patch management, and behavioral security rules in the same agent.
 - [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
 - [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools.
 - [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management.
