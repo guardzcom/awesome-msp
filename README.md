@@ -29,6 +29,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Identity and Access Management (IAM)](#identity-and-access-management-iam)
 - [Managed Print Services](#managed-print-services)
 - [Virtual Desktop Infrastructure (VDI)](#virtual-desktop-infrastructure-vdi)
+- [AI and Automation](#ai-and-automation)
 - [Business Resources](#business-resources)
 
 ## Software Bundles and Suites, RMM & PSA
@@ -255,6 +256,9 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Citrix Virtual Apps and Desktops](https://www.citrix.com/products/citrix-virtual-apps-and-desktops/) - Modernizes IT with a secure, easy-to-manage cloud solution to quickly deliver apps or desktops from any cloud or datacenter worldwide.
 - [Microsoft Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) - Combines the scale, security, and cost benefits of Azure and Microsoft 365 for a secure remote desktop from virtually anywhere.
 - [VMware Horizon](https://www.vmware.com/products/horizon.html) - VDI and app virtualization platform.
+
+## AI and Automation
+- [MSPStuff Switchboard](https://www.mspstuff.io) - Hosted MCP servers for MSP tools: ConnectWise, NinjaOne, Microsoft 365, SentinelOne, Pax8 and more. Connects AI assistants to the platforms an MSP already runs, read-only today.
 
 ## Business Resources
 - [MSPAlliance](https://www.mspalliance.com/) - A global association for MSPs, offering certification, networking, and resources to help grow MSP businesses.
