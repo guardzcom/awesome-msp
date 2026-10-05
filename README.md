@@ -51,6 +51,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Level](https://level.io) - Flexible, intuitive, and secure remote monitoring and management (RMM) platform.
 - [LogMeIn Rescue](https://www.logmeinrescue.com/) - A powerful remote support platform that offers features like remote access, file transfer, and diagnostic tools.
 - [Remote Utilities](https://www.remoteutilities.com/) - A secure and flexible remote support solution that offers features like remote access, file transfer, and remote task management.
+- [Rustinion](https://rustinion.com/) - Cross-platform (Windows/macOS/Linux, edge/OpenWRT/pfSense) device management and patch/software-compliance agent for MSPs managing mixed-OS client fleets, with per-client tenant isolation and volume pricing that scales with client count.
 - [Splashtop](https://www.splashtop.com/) - Fast and secure solutions for remote work, remote support, remote learning, and more at the best value.
 - [TeamViewer](https://www.teamviewer.com/) - A comprehensive remote support solution that allows you to access and control devices remotely, share files, and collaborate with others.
 
