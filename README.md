@@ -8,15 +8,18 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Software Bundles and Suites, RMM \& PSA](#software-bundles-and-suites-rmm--psa)
 - [Remote Support, RMM \& Device Monitoring](#remote-support-rmm--device-monitoring)
 - [PSA, Service Desk \& CX](#psa-service-desk--cx)
+- [Quoting \& Payments](#quoting--payments)
 - [BDR](#bdr)
 - [DNS Filtering and Web Security](#dns-filtering-and-web-security)
 - [Email Security](#email-security)
 - [Endpoint Protection and EDR](#endpoint-protection-and-edr)
 - [Security Suites, Platforms and MDRs](#security-suites-platforms-and-mdrs)
+- [SIEM \& Log Management](#siem--log-management)
 - [Security Awareness Training](#security-awareness-training)
 - [IT Documentation](#it-documentation)
 - [Automation](#automation)
 - [Network Monitoring](#network-monitoring)
+- [Networking \& Firewalls](#networking--firewalls)
 - [Training and Certification](#training-and-certification)
 - [Communities \& Forums](#communities--forums)
 - [Blogs \& Podcasts](#blogs--podcasts)
@@ -65,6 +68,15 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Thread](https://www.getthread.com/) - Service desk that meets clients in Slack, Teams, mobile, or desktop chat.
 - [TimeZest](https://www.timezest.com/) - Appointment scheduling for MSP technicians, integrated with the PSA.
 
+## Quoting & Payments
+- [Alternative Payments](https://www.alternativepayments.io/) - ACH and card payment portal for MSPs, with PSA and QuickBooks reconciliation.
+- [BenjiPays](https://benjipays.com/) - Invoice payment portal with autopay and reconciliation between the accounting system and clients.
+- [ConnectBooster](https://www.kaseya.com/products/msp-billing-software/) - Invoicing, autopay, and payment portal synced to the PSA and accounting system, from Kaseya.
+- [FlexPoint](https://www.getflexpoint.com/) - Payments and receivables platform for MSPs, with client financing and accounting sync.
+- [Kaseya Quote Manager](https://www.kaseya.com/products/msp-quoting-software/) - Quoting and proposal tool integrated with Autotask and Kaseya 365.
+- [Quoter](https://www.scalepad.com/quoter) - Quoting and proposal tool for MSPs with ConnectWise, Autotask, and Halo integrations, from ScalePad.
+- [Zomentum](https://www.zomentum.com/) - Proposal, quoting, and order platform for IT service providers.
+
 ## BDR
 - [Acronis](https://www.acronis.com/) - Backup, disaster recovery, and data protection for MSPs.
 - [Arcserve ShadowProtect](https://www.arcserve.com/) - Image-based backup and disaster recovery (formerly StorageCraft).
@@ -84,13 +96,17 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 ## Email Security
 - [Barracuda Email Protection](https://www.barracuda.com/products/email-protection) - Email security covering spam, phishing, account takeover, and backup.
 - [Check Point Harmony Email & Collaboration](https://www.checkpoint.com/harmony/email-security/) - API-based protection for Microsoft 365 and Google Workspace email and collaboration apps (formerly Avanan).
+- [EasyDMARC](https://easydmarc.com/) - DMARC monitoring, SPF and DKIM management, and reporting with an MSP program.
 - [INKY](https://www.inky.com/) - Behavioral email security with in-message warning banners for users.
+- [Mailhardener](https://www.mailhardener.com/) - DMARC, SPF, DKIM, MTA-STS, and TLS-RPT monitoring and reporting.
 - [Mesh](https://www.meshsecurity.io/) - Email security platform built for MSPs, with multi-tenant management, owned by Bitdefender since 2025.
 - [Mimecast](https://www.mimecast.com/) - Email security, archiving, and continuity.
 - [N-able Mail Assure](https://www.n-able.com/products/mail-assure) - Cloud email filtering and archiving for MSPs.
 - [OpenText Core Email Threat Protection](https://cybersecurity.opentext.com/products/email-security/email-threat-protection/) - Cloud email filtering and threat protection (formerly Zix and AppRiver).
 - [Proofpoint](https://www.proofpoint.com/us/solutions/combat-email-and-cloud-threats) - Email and cloud threat protection, with Proofpoint Essentials for SMBs.
+- [Sendmarc](https://sendmarc.com/) - DMARC monitoring and enforcement, sold through MSPs and partners.
 - [SpamTitan](https://www.spamtitan.com/) - Email filtering with antivirus and malicious-URL detection, from CyberSentriq (formerly TitanHQ).
+- [URIports](https://www.uriports.com/) - DMARC, TLS-RPT, and browser security report monitoring.
 
 ## Endpoint Protection and EDR
 - [Bitdefender GravityZone](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html) - Endpoint protection, EDR, and MDR with a multi-tenant console for MSPs.
@@ -110,6 +126,12 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Guardz](https://guardz.com/) - Unified security platform built for MSPs, covering identity (ITDR), email, endpoint, browser, cloud data, and security awareness training, with 24/7 MDR.
 - [Huntress](https://www.huntress.com/) - Managed EDR, ITDR, and SIEM backed by a 24/7 SOC, built for MSPs.
 - [Sophos MDR](https://www.sophos.com/en-us/products/managed-detection-and-response) - Managed detection and response service from Sophos.
+
+## SIEM & Log Management
+- [Blumira](https://www.blumira.com/) - Cloud SIEM with automated detection and response playbooks.
+- [N-able Adlumin](https://www.n-able.com/products/adlumin) - Cloud SIEM with managed detection and response, from N-able.
+- [Todyl](https://www.todyl.com/) - Single-agent platform combining SASE, SIEM, endpoint security, and a managed SOC.
+- [Wazuh](https://wazuh.com/) - Open-source, self-hosted SIEM and XDR.
 
 ## Security Awareness Training
 - [Breach Secure Now](https://www.breachsecurenow.com/) - White-label security awareness training and HIPAA compliance tools for MSPs.
@@ -133,6 +155,19 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Auvik](https://www.auvik.com/) - Cloud-based network monitoring and management.
 - [Domotz](https://www.domotz.com/) - Network monitoring and management with device discovery and remote access.
 - [Zabbix](https://www.zabbix.com/) - Open-source monitoring for networks, servers, and applications.
+
+## Networking & Firewalls
+- [Aruba Instant On](https://www.arubainstanton.com/) - Small-business switches and access points managed through a cloud app, from HPE.
+- [Cato Networks](https://www.catonetworks.com/) - Cloud SASE service combining SD-WAN, firewall as a service, and secure web gateway.
+- [Cisco Meraki](https://www.cisco.com/site/us/en/products/networking/meraki/index.html) - Cloud-managed firewalls, switches, access points, and cameras.
+- [Fortinet FortiGate](https://www.fortinet.com/products/next-generation-firewall) - Next-generation firewalls with SD-WAN and VPN, managed through FortiManager or FortiCloud.
+- [Palo Alto Networks NGFW](https://www.paloaltonetworks.com/network-security/next-generation-firewall) - Next-generation firewall appliances and virtual firewalls running PAN-OS.
+- [pfSense](https://www.pfsense.org/) - Open-source firewall and router, with a commercial pfSense Plus edition from Netgate.
+- [SonicWall](https://www.sonicwall.com/products/firewalls) - Firewall appliances with central management through Network Security Manager.
+- [Sophos Firewall](https://www.sophos.com/en-us/products/next-gen-firewall) - Firewall appliances managed from Sophos Central.
+- [TP-Link Omada](https://www.omadanetworks.com/) - Centrally managed gateways, switches, and access points, with a cloud or self-hosted controller.
+- [Ubiquiti UniFi](https://ui.com/) - Cloud-managed gateways, switches, Wi-Fi access points, and cameras.
+- [WatchGuard Firebox](https://www.watchguard.com/wgrd-products/network-security) - Firewall appliances with cloud management and an MSP program.
 
 ## Training and Certification
 - [Cisco Networking Academy](https://www.netacad.com/) - Curriculum, learning, support and training platform.
@@ -237,6 +272,10 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 ## Business Resources
 - [Channel Futures](https://www.channelfutures.com/) - News and analysis for MSPs and channel partners; home of the former MSPmentor.
 - [ChannelE2E](https://www.channele2e.com/) - News on MSP and IT channel M&A, vendors and business strategy.
+- [IT Nation Evolve](https://itnation.connectwise.com/evolve) - Role-based peer groups for MSP owners and managers, run by ConnectWise (formerly HTG Peer Groups).
 - [MSP Insights](https://www.mspinsights.com/) - Business content for MSPs from successful MSPs and the associations that serve them.
+- [MSP-Ignite](https://www.msp-ignite.com/) - Vendor-independent peer groups for MSP owners, service managers, sales, and security staff.
 - [MSPAlliance](https://mspalliance.com/) - Global association for MSPs, offering certification, networking, and resources to help grow MSP businesses.
 - [MSPCFO](https://www.mspcfo.com/) - Profitability software showing client margins, technician cost and agreement pricing, with ConnectWise, Autotask and Halo integrations.
+- [Pax8 Academy Peer Groups](https://www.pax8.com/en-us/academy/groups/) - Facilitated peer groups for MSP owners and leaders, included for eligible Pax8 partners.
+- [TruPeer](https://www.trumethods.com/) - Facilitated MSP peer groups and operating framework from TruMethods, a Kaseya company.
