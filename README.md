@@ -75,6 +75,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [FlexPoint](https://www.getflexpoint.com/) - Payments and receivables platform for MSPs, with client financing and accounting sync.
 - [Kaseya Quote Manager](https://www.kaseya.com/products/msp-quoting-software/) - Quoting and proposal tool integrated with Autotask and Kaseya 365.
 - [Quoter](https://www.scalepad.com/quoter) - Quoting and proposal tool for MSPs with ConnectWise, Autotask, and Halo integrations, from ScalePad.
+- [Salesbuildr](https://www.salesbuildr.com/) - Quoting, proposal, and client storefront platform for MSPs, with Autotask, ConnectWise, and Halo integrations.
 - [Zomentum](https://www.zomentum.com/) - Proposal, quoting, and order platform for IT service providers.
 
 ## BDR
