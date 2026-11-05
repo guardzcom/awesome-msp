@@ -277,5 +277,6 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [MSP-Ignite](https://www.msp-ignite.com/) - Vendor-independent peer groups for MSP owners, service managers, sales, and security staff.
 - [MSPAlliance](https://mspalliance.com/) - Global association for MSPs, offering certification, networking, and resources to help grow MSP businesses.
 - [MSPCFO](https://www.mspcfo.com/) - Profitability software showing client margins, technician cost and agreement pricing, with ConnectWise, Autotask and Halo integrations.
+- [Nizlo MSP Operations Resources](https://github.com/izikipizi/nizlo-msp-operations-resources) - CC BY 4.0 checklists, calculators and CSV templates for RMM migration, client onboarding, patch exceptions, incident response, vendor due diligence and pricing evaluation.
 - [Pax8 Academy Peer Groups](https://www.pax8.com/en-us/academy/groups/) - Facilitated peer groups for MSP owners and leaders, included for eligible Pax8 partners.
 - [TruPeer](https://www.trumethods.com/) - Facilitated MSP peer groups and operating framework from TruMethods, a Kaseya company.
