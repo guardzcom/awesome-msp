@@ -243,6 +243,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [N-able N-central](https://www.n-able.com/products/n-central) - RMM platform with patch management for MSPs.
 - [Patch My PC](https://patchmypc.com/) - Third-party application patching for Intune and Configuration Manager (now includes Scappman).
 - [PDQ Deploy](https://www.pdq.com/pdq-deploy/) - Software deployment and patching for Windows.
+- [Vulert](https://vulert.com) - Vulert secures your software supply chain by detecting and continuously monitoring vulnerabilities and malicious open-source dependencies — without accessing your source code or installing agents. It helps developers identify, prioritize, and fix vulnerabilities quickly and efficiently. Supports JavaScript, PHP, Java, Python, Go, Rust, and more.
 
 ## Identity and Access Management (IAM & ITDR)
 - [AutoElevate](https://www.cyberfox.com/autoelevate/) - Privileged access management that removes local admin rights and handles elevation requests, from CyberFOX.
